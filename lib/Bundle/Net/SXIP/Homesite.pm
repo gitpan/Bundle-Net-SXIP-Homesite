@@ -3,7 +3,7 @@ package Bundle::Net::SXIP::Homesite;
 use warnings;
 use strict;
 
-our $VERSION = '1.0.0';
+our $VERSION = '1.0.1';
 
 1; # End of Bundle::Net::SXIP::Homesite
 
@@ -29,17 +29,25 @@ Digest::MD5
 
 Digest::SHA1
 
+Error
+
+HTML::FillInForm
+
+HTTP::Date
+
 Iterator
 
 Module::Pluggable
 
-SXIP::Digest
+Net::SXIP::Digest
 
 Spiffy
 
+Template
+
 Test::More
 
-Time::Piece::MySql
+Time::Piece::MySQL
 
 UNIVERSAL::require
 
