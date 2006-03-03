@@ -1,0 +1,12 @@
+---
+name: Bundle-Net-SXIP-Homesite
+version: 1.0.0
+author:
+  - Sxip Identity <dev@sxip.org>
+abstract: ~
+license: bsd
+provides:
+  Bundle::Net::SXIP::Homesite:
+    file: lib/Bundle/Net/SXIP/Homesite.pm
+    version: 1.0.0
+generated_by: Module::Build version 0.2611
